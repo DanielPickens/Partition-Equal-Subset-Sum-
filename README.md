@@ -1,5 +1,5 @@
 # Partition-Equal-Subset-Sum-
-My Python Solution that is faster than 96% of other solutions on Leetcode
+My Python Solution that is faster than 95% of other solutions on Leetcode
 
 "Given a non-empty array nums containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
 
